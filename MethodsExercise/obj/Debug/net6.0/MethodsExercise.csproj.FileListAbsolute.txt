@@ -1,0 +1,15 @@
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.AssemblyReference.cache
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\TrueCoders\GitHub\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
